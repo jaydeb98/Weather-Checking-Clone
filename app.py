@@ -1,7 +1,9 @@
 from flask import Flask, render_template, request
 import requests
+import os
 
-app = Flask(__name__, template_folder = '/config/workspace/weather_checking/Templates')
+app = Flask(__name__, template_folder='Templates')
+print("Absolute template path:", os.path.abspath("templates"))
 
 # API Key
 api_key = '70dcd7f9dac74b293d8109aa7bb0b935'
