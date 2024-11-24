@@ -1,7 +1,7 @@
 **Weather Checking Clone 🌦️**
 This is a simple weather-checking web application built using Flask, Python, and the AccuWeather API. 
-It allows users to search for and view weather details for any city. 
-The project is live and deployed on the Render Cloud Platform.
+/n It allows users to search for and view weather details for any city. 
+/n The project is live and deployed on the Render Cloud Platform.
 
 **Features 🌟**
 The application provides the following weather details:
