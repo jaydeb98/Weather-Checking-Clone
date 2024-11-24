@@ -32,7 +32,7 @@ The city name **must be entered correctly**. Failing to do so will result in no 
 ---
 
 ## Live Demo 🌐  
-Check out the live application: **[Weather Checking Clone](https://checkweather-phe0.onrender.com/weatherapp)**  
+Check out the live application: **[Weather Checking Clone](https://checkweather-phe0.onrender.com)**  
 
 ---
 
